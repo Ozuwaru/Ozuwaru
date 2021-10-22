@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ozuwaru
+- Hi, I’m @Ozuwaru
 - 👀 I’m interested in both front and back end
 - 🌱 I’m currently learning python, C and html
-- i'm still studying, but soon i would like to start working as a full stack developer
+- i'm still studying, but soon i would like to start become a full stack developer
 - 📫 How to reach me oswaldtg1@gmail.com
 
 <!---
