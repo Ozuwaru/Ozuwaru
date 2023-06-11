@@ -1,8 +1,5 @@
 - Hi, I’m @Ozuwaru
-- 👀 I’m interested in both front and back end
-- 🌱 I’m currently learning python, C and html
-- i'm still studying, but soon i would like to start become a full stack developer
-- 📫 How to reach me oswaldtg1@gmail.com
+I'm a programmer specialized in backend development in php with skills in databases like MySQl, API development and i have proficienty with the Laravel Framework
 
 <!---
 Ozuwaru/Ozuwaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
