@@ -1,6 +1,6 @@
 - Hi, I’m @Ozuwaru
 -I'm a Software Developer with great skills in Languages  C, C++, PHP, Javascript, Python. <br>
--I've code with frameworks like Laravel and Node.js.<br>
+-I've code with frameworks like Laravel and express.<br>
 -I also have proficiency creating and managing sql Databases.<br>
 
 <!---
